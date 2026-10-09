@@ -1,0 +1,19 @@
+{
+  "name": "master-of-brainrot",
+  "version": "1.0.0",
+  "description": "Chaos Club - A collection of memes and brainrot energy",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "memes",
+    "brainrot",
+    "chaos",
+    "sigma",
+    "son-mode"
+  ],
+  "author": "Uohaana",
+  "license": "MIT"
+}
